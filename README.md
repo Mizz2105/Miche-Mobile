@@ -58,4 +58,4 @@ This project is built with:
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 
-# Mich-Mobile
+# Miche-Mobile
