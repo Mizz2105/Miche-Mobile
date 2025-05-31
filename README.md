@@ -53,9 +53,12 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+- Supabase (Database)
+- Zoho Mail for Email
+- Netlify for Hosting
+- Stripe for Payments
 
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
+Credientials 
 
 # Miche-Mobile
